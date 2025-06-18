@@ -1,6 +1,6 @@
 #  Clailton da Costa
 
-**`Desenvolvedor FullStack`**
+🧑‍💼**`Desenvolvedor FullStack`**
 
 Me chamo Clailton da costa, tenho 18 anos e sou natural de Parnaíba. Concluí o ensino médio no Liceu Parnaíbano, com o curso técnico em análise e desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonado por tecnologia e sempre busco entrar en novos projetos.
 
@@ -26,7 +26,7 @@ Me chamo Clailton da costa, tenho 18 anos e sou natural de Parnaíba. Concluí o
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -163,7 +163,7 @@ Me chamo Clailton da costa, tenho 18 anos e sou natural de Parnaíba. Concluí o
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
