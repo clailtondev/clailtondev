@@ -141,6 +141,6 @@ Me chamo Clailton da Costa, tenho 18 anos e sou natural de Parnaíba. Concluí o
         align="left"
         alt="GitHub Stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clailtondacosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=clailtondev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
      />
 </p>
