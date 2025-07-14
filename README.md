@@ -4,6 +4,10 @@
 
 Me chamo Clailton da Costa, tenho 18 anos e sou natural de Parnaíba. Concluí o ensino médio no Liceu Parnaíbano, com o curso técnico em análise e desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonado por tecnologia e sempre busco entrar em novos projetos.
 
+<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWQwdzJ0b3o0ejV6ZnB1ZHQxbDN0aWw5dG54dnpsdGF1b3p0c29sbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFWlHO/giphy.gif" width="50" height="50" alt="Animated Hello" title="Olá!"/>
+<br>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -137,10 +141,10 @@ Me chamo Clailton da Costa, tenho 18 anos e sou natural de Parnaíba. Concluí o
         src="https://github-readme-stats.vercel.app/api?username=clailtondev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
 
-     <img
+    <img
         align="left"
         alt="GitHub Stats"
         height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=clailtondev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-     />
+    />
 </p>
