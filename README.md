@@ -1,16 +1,13 @@
 <div align="center">
-  <a href="https://github.com/clailtondev">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+World!+👋;Eu+sou+Clailton+da+Costa;Desenvolvedor+FullStack+🚀&font=Fira+Code&center=true&width=440&height=70&color=00FF7F&vCenter=true&size=27&duration=3000" alt="Animação 'Hello, World!'">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20World!%20👋;Eu%20sou%20Clailton%20da%20Costa;Desenvolvedor%20FullStack%20🚀&font=Fira%20Code&center=true&width=490&height=80&color=00FF7F&vCenter=true&size=27&duration=3000" alt="Animação 'Hello, World!'">
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Com **19 anos** e um espírito incansável pela tecnologia, sou um Desenvolvedor FullStack de Parnaíba. Minha jornada técnica começou com o curso técnico em Análise e Desenvolvimento de Sistemas no Liceu Parnaibano, e hoje sigo aprofundando meus conhecimentos na Uninassau.
-
-Sou movido pela paixão em construir e inovar. Adoro mergulhar em novos projetos e transformar ideias complexas em soluções elegantes e funcionais.
+Desenvolvedor FullStack de 19 anos, natural de Parnaíba. Possuo formação técnica em Análise e Desenvolvimento de Sistemas pelo Liceu Parnaibano e atualmente curso a graduação em Análise e Desenvolvimento de Sistemas na Uninassau.
+Meu foco profissional é o desenvolvimento de novos projetos, com ênfase em transformar requisitos complexos em soluções técnicas funcionais e eficientes.
 
 <br>
 
@@ -67,10 +64,10 @@ Minha stack principal para transformar ideias em realidade, organizada por área
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=clailtondev&style=for-the-badge&color=00FF7F)
 
 <p align="center">
-  <a href="mailto:seu-email-aqui@gmail.com">
+  <a href="mailto:clailtondacosta.office@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin-aqui/">
+  <a href="https://www.linkedin.com/in/clailton-da-costa-a290a0395">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/clailtondev">
