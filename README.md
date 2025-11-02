@@ -1,146 +1,66 @@
-# Clailton
+# 👋 Olá, eu sou o Clailton da Costa!
+### 🧑‍💻 Desenvolvedor FullStack 🧑‍💻
 
-🧑‍💼**`Desenvolvedor FullStack`**
+<br>
 
-Me chamo Clailton da Costa, tenho 18 anos e sou natural de Parnaíba. Concluí o ensino médio no Liceu Parnaíbano, com o curso técnico em análise e desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonado por tecnologia e sempre busco entrar em novos projetos.
+## 🚀 Sobre Mim
 
----
+Me chamo Clailton da Costa, tenho **19 anos** e sou natural de Parnaíba. Concluí o ensino médio no Liceu Parnaibano, com o curso técnico em análise e desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau.
 
-### 🤖 Linguagens e Tecnologias
+Sou apaixonado por tecnologia e sempre busco entrar em novos projetos.
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-    align="left"
-    alt="Next.js"
-    title="Next.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
-<img
-    align="left"
-    alt="Bootstrap"
-    title="Bootstrap"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
-<img
-    align="left"
-    alt="Tailwind"
-    title="Tailwind"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-<img
-    align="left"
-    alt="SASS"
-    title="SASS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-/>
-<img
-    align="left"
-    alt="PHP"
-    title="PHP"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-<img
-    align="left"
-    alt="Laravel"
-    title="Laravel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-/>
-<img
-    align="left"
-    alt="JQuery"
-    title="JQuery"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"
-/>
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+<br>
 
-<br/>
-<br/>
+## 🛠️ Minhas Principais Tecnologias
 
----
+Aqui estão as tecnologias com as quais tenho trabalhado mais recentemente:
 
-### 📊 Estatísticas
+<p align="left">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="Vue.js">
+  </a>
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+</p>
 
-<p>
-    <img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=clailtondev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-    <img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=clailtondev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
-    
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clailton&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Clailton" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clailton&layout=compact&langs_count=8&theme=transparent" alt="Top Linguagens de Clailton" />
+</p>
+
+> **Nota:** O card "Top Linguagens" acima é gerado automaticamente pelo GitHub. Ele pode não mostrar imediatamente as tecnologias que listamos (Vue, Django, etc.) se os repositórios que as utilizam forem privados ou se você ainda não tiver subido muitos projetos com elas. A seção "Minhas Principais Tecnologias" que criei serve justamente para *você* dizer no que é focado!
+
+<br>
+
+## 📬 Entre em Contato
+
+<p align="left">
+  <a href="mailto:seu-email-aqui@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario-linkedin-aqui/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
